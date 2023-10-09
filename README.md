@@ -15,4 +15,4 @@ Identifying the assets of my small home business and classifying the risk sensit
 
  <h4>
 List of assets: </h4>
-<img src="https://imgur.com/oXi2ovd.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/JajlCka.png" height="65%" width="70%" alt="Security Audit"/>
